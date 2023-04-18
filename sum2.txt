@@ -1,0 +1,3 @@
+private int sum2(int a, in t b){
+	return a + b;
+}
